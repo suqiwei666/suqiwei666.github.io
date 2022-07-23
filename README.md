@@ -7,12 +7,11 @@
 ### 系统镜像下载
 
 这里提供了Windows的原版下载镜像
-[点击进入镜像下载页面]（suqiwei666.github.io/home)
+[点击进入镜像下载页面](suqiwei666.github.io/home)
 
-### Jekyll Themes
+### 实用工具
+敬请期待
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suqiwei666/suqiwei666.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Support
+有问题无法自己通过互联网解决？
+您可以：尽情期待
