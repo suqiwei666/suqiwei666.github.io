@@ -1,12 +1,12 @@
 ## Windows/Linux/Mac/Android交流频道官网
 
-You can use the [editor on GitHub](https://github.com/suqiwei666/suqiwei666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你还未加入我们的QQ频道? [点击一键加入](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=13C36X&businessType=9&from=246610&biz=ka
+) 即可加入我们的频道
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 系统镜像下载
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这里提供了Windows的原版下载镜像
 
 ```markdown
 Syntax highlighted code block
