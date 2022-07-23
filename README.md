@@ -7,7 +7,7 @@
 ### 系统镜像下载
 
 这里提供了Windows的原版下载镜像
-[点击进入镜像下载页面](suqiwei666.github.io/home)
+[点击进入镜像下载页面](suqiwei666.github.io/home.html)
 
 ### 实用工具
 敬请期待
