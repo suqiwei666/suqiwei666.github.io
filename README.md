@@ -8,7 +8,6 @@
 
 这里提供了Windows的原版下载镜像
 [点击进入镜像下载页面]（suqiwei666.github.io/home)
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
